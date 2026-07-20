@@ -4,4 +4,3 @@
 "mediapipe==0.10.14" 
 pyautogui 
 pandas
-Run: "%pip install "numpy<2" "opencv-python<5" "opencv-contrib-python<5" "mediapipe==0.10.14" pyautogui pandas"
